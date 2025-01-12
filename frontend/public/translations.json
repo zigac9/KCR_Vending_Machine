@@ -1,0 +1,192 @@
+{
+    "Pristni": {
+        "SI": "Pristni",
+        "EN": "Press",
+        "DE": "Drücken"
+    },
+    "u\u017eitek": {
+        "SI": "u\u017eitek",
+        "EN": "pleasure",
+        "DE": "Vergnügen"
+    },
+    "narave": {
+        "SI": "narave",
+        "EN": "nature",
+        "DE": "Natur"
+    },
+    "v skodelici": {
+        "SI": "v skodelici",
+        "EN": "in a cup",
+        "DE": "in einer Tasse"
+    },
+    "Napolni svoj dan": {
+        "SI": "Napolni svoj dan",
+        "EN": "Fill your day",
+        "DE": "Füllen Sie Ihren Tag"
+    },
+    "s vsakim po\u017eirkom.": {
+        "SI": "s vsakim po\u017eirkom.",
+        "EN": "with every sip.",
+        "DE": "mit jedem Schluck."
+    },
+    "KAVE": {
+        "SI": "KAVE",
+        "EN": "COFFEE",
+        "DE": "KAFFEE"
+    },
+    "Espresso": {
+        "SI": "Espresso",
+        "EN": "Espresso",
+        "DE": ""
+    },
+    "Cappuccino": {
+        "SI": "Cappuccino",
+        "EN": "Cappuccino",
+        "DE": "Cappuccino"
+    },
+    "Latte": {
+        "SI": "Latte",
+        "EN": "Latte",
+        "DE": "Latte"
+    },
+    "Americano": {
+        "SI": "Americano",
+        "EN": "Americano",
+        "DE": "Americano"
+    },
+    "Mocha": {
+        "SI": "Mocha",
+        "EN": "Mocha",
+        "DE": "Mocha"
+    },
+    "Ristretto": {
+        "SI": "Ristretto",
+        "EN": "Ristretto",
+        "DE": "Ristretto"
+    },
+    "Macchiato": {
+        "SI": "Macchiato",
+        "EN": "Macchiato",
+        "DE": "Macciato"
+    },
+    "Bela kava": {
+        "SI": "Bela kava",
+        "EN": "White coffee",
+        "DE": "Weisse kaffe"
+    },
+    "Sadni \u010daj": {
+        "SI": "Sadni \u010daj",
+        "EN": "Fruit tea",
+        "DE": "Früchtetee"
+    },
+    "Kapu\u010dino": {
+        "SI": "Kapu\u010dino",
+        "EN": "Cappuccino",
+        "DE": "Cappuccino"
+    },
+    "Mleko": {
+        "SI": "Mleko",
+        "EN": "Milk",
+        "DE": "Milch"
+    },
+    "Zeleni \u010daj": {
+        "SI": "Zeleni \u010daj",
+        "EN": "Green tea",
+        "DE": "Grüner Tee"
+    },
+    "Kava z mlekom": {
+        "SI": "Kava z mlekom",
+        "EN": "Coffe with milk",
+        "DE": "Milchkaffee"
+    },
+    "\u010crni \u010daj": {
+        "SI": "\u010crni \u010daj",
+        "EN": "Black tea",
+        "DE": "Dunkletee"
+    },
+    "Oolong \u010daj": {
+        "SI": "Oolong \u010daj",
+        "EN": "Oolong tea",
+        "DE": "Oolong Tee"
+    },
+    "Malinov \u010daj": {
+        "SI": "Malinov \u010daj",
+        "EN": "Raspberry tea",
+        "DE": "Himbeertee"
+    },
+    "Pu-erh": {
+        "SI": "Pu-erh",
+        "EN": "Pu-erh",
+        "DE": "Pu-erh"
+    },
+    "Macha": {
+        "SI": "Macha",
+        "EN": "Macha",
+        "DE": "Macha"
+    },
+    "\u017deli\u0161\u010dni \u010daj": {
+        "SI": "\u017deli\u0161\u010dni \u010daj",
+        "EN": "Herbal tea",
+        "DE": "Kräutertee"
+    },
+    "Temna vro\u010da \u010dokolada": {
+        "SI": "Temna vro\u010da \u010dokolada",
+        "EN": "Dark hot chocolate",
+        "DE": "Dunkle heiße Schokolade"
+    },
+    "Bela vro\u010da \u010dokolada": {
+        "SI": "Bela vro\u010da \u010dokolada",
+        "EN": "White hot chocolate",
+        "DE": "Weisse heiße Schokolade"
+    },
+    "Vro\u010de mleko": {
+        "SI": "Vro\u010de mleko",
+        "EN": "Hot milk",
+        "DE": "Heiße Milch"
+    },
+    "Kakav": {
+        "SI": "Kakav",
+        "EN": "Cocoa",
+        "DE": "Kakao"
+    },
+    "Napaka": {
+        "SI": "Napaka",
+        "EN": "Error",
+        "DE": "Fehler"
+    },
+    "Mala": {
+        "SI": "Mala",
+        "EN": "Small",
+        "DE": "Klein"
+    },
+    "Velika": {
+        "SI": "Velika",
+        "EN": "Big",
+        "DE": "Groß"
+    },
+    "Znamka": {
+        "SI": "Znamka",
+        "EN": "Brand",
+        "DE": "Marke"
+    },
+    "Sladkor": {
+        "SI": "Sladkor",
+        "EN": "Sugar",
+        "DE": "Zucker"
+    },
+    "ZNESEK": {
+        "SI": "ZNESEK",
+        "EN": "Amount",
+        "DE": "Betrag"
+    },
+    "ZAVRNI": {
+        "SI": "ZAVRNI",
+        "EN": "Reject",
+        "DE": "Ablehnen"
+    },
+    "POTRDI": {
+        "SI": "POTRDI",
+        "EN": "Confirm",
+        "DE": "Bestätigen"
+    }
+}

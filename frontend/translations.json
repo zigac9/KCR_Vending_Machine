@@ -1,0 +1,322 @@
+{
+    "Pristni": {
+        "SI": "Pristni",
+        "EN": "Press",
+        "DE": "Dr\u00fccken"
+    },
+    "u\u017eitek": {
+        "SI": "u\u017eitek",
+        "EN": "pleasure",
+        "DE": "Vergn\u00fcgen"
+    },
+    "narave": {
+        "SI": "narave",
+        "EN": "nature",
+        "DE": "Natur"
+    },
+    "v skodelici": {
+        "SI": "v skodelici",
+        "EN": "in a cup",
+        "DE": "in einer Tasse"
+    },
+    "Napolni svoj dan": {
+        "SI": "Napolni svoj dan",
+        "EN": "Fill your day",
+        "DE": "F\u00fcllen Sie Ihren Tag"
+    },
+    "s vsakim po\u017eirkom.": {
+        "SI": "s vsakim po\u017eirkom.",
+        "EN": "with every sip.",
+        "DE": "mit jedem Schluck."
+    },
+    "KAVE": {
+        "SI": "KAVE",
+        "EN": "COFFEE",
+        "DE": "KAFFEE"
+    },
+    "Espresso": {
+        "SI": "Espresso",
+        "EN": "Espresso",
+        "DE": ""
+    },
+    "Cappuccino": {
+        "SI": "Cappuccino",
+        "EN": "Cappuccino",
+        "DE": "Cappuccino"
+    },
+    "Latte": {
+        "SI": "Latte",
+        "EN": "Latte",
+        "DE": "Latte"
+    },
+    "Americano": {
+        "SI": "Americano",
+        "EN": "Americano",
+        "DE": "Americano"
+    },
+    "Mocha": {
+        "SI": "Mocha",
+        "EN": "Mocha",
+        "DE": "Mocha"
+    },
+    "Ristretto": {
+        "SI": "Ristretto",
+        "EN": "Ristretto",
+        "DE": "Ristretto"
+    },
+    "Macchiato": {
+        "SI": "Macchiato",
+        "EN": "Macchiato",
+        "DE": "Macciato"
+    },
+    "Bela kava": {
+        "SI": "Bela kava",
+        "EN": "White coffee",
+        "DE": "Weisse kaffe"
+    },
+    "Sadni \u010daj": {
+        "SI": "Sadni \u010daj",
+        "EN": "Fruit tea",
+        "DE": "Fr\u00fcchtetee"
+    },
+    "Kapu\u010dino": {
+        "SI": "Kapu\u010dino",
+        "EN": "Cappuccino",
+        "DE": "Cappuccino"
+    },
+    "Mleko": {
+        "SI": "Mleko",
+        "EN": "Milk",
+        "DE": "Milch"
+    },
+    "Zeleni \u010daj": {
+        "SI": "Zeleni \u010daj",
+        "EN": "Green tea",
+        "DE": "Gr\u00fcner Tee"
+    },
+    "Kava z mlekom": {
+        "SI": "Kava z mlekom",
+        "EN": "Coffe with milk",
+        "DE": "Milchkaffee"
+    },
+    "\u010crni \u010daj": {
+        "SI": "\u010crni \u010daj",
+        "EN": "Black tea",
+        "DE": "Dunkletee"
+    },
+    "Oolong \u010daj": {
+        "SI": "Oolong \u010daj",
+        "EN": "Oolong tea",
+        "DE": "Oolong Tee"
+    },
+    "Malinov \u010daj": {
+        "SI": "Malinov \u010daj",
+        "EN": "Raspberry tea",
+        "DE": "Himbeertee"
+    },
+    "Pu-erh": {
+        "SI": "Pu-erh",
+        "EN": "Pu-erh",
+        "DE": "Pu-erh"
+    },
+    "Macha": {
+        "SI": "Macha",
+        "EN": "Macha",
+        "DE": "Macha"
+    },
+    "\u017deli\u0161\u010dni \u010daj": {
+        "SI": "\u017deli\u0161\u010dni \u010daj",
+        "EN": "Herbal tea",
+        "DE": "Kr\u00e4utertee"
+    },
+    "Temna vro\u010da \u010dokolada": {
+        "SI": "Temna vro\u010da \u010dokolada",
+        "EN": "Dark hot chocolate",
+        "DE": "Dunkle hei\u00dfe Schokolade"
+    },
+    "Bela vro\u010da \u010dokolada": {
+        "SI": "Bela vro\u010da \u010dokolada",
+        "EN": "White hot chocolate",
+        "DE": "Weisse hei\u00dfe Schokolade"
+    },
+    "Vro\u010de mleko": {
+        "SI": "Vro\u010de mleko",
+        "EN": "Hot milk",
+        "DE": "Hei\u00dfe Milch"
+    },
+    "Kakav": {
+        "SI": "Kakav",
+        "EN": "Cocoa",
+        "DE": "Kakao"
+    },
+    "Napaka": {
+        "SI": "Napaka",
+        "EN": "Error",
+        "DE": "Fehler"
+    },
+    "Mala": {
+        "SI": "Mala",
+        "EN": "Small",
+        "DE": "Klein"
+    },
+    "Velika": {
+        "SI": "Velika",
+        "EN": "Big",
+        "DE": "Gro\u00df"
+    },
+    "Znamka": {
+        "SI": "Znamka",
+        "EN": "Brand",
+        "DE": "Marke"
+    },
+    "Sladkor": {
+        "SI": "Sladkor",
+        "EN": "Sugar",
+        "DE": "Zucker"
+    },
+    "ZNESEK": {
+        "SI": "ZNESEK",
+        "EN": "Amount",
+        "DE": "Betrag"
+    },
+    "ZAVRNI": {
+        "SI": "ZAVRNI",
+        "EN": "Reject",
+        "DE": "Ablehnen"
+    },
+    "POTRDI": {
+        "SI": "POTRDI",
+        "EN": "Confirm",
+        "DE": "Best\u00e4tigen"
+    },
+    "Izberi si svoj": {
+        "SI": "Izberi si svoj",
+        "EN": "Choose your",
+        "DE": "W\u00e4hlen Sie Ihren"
+    },
+    "najljub\u0161i": {
+        "SI": "najljub\u0161i",
+        "EN": "favorite",
+        "DE": "Lieblings"
+    },
+    "vro\u010di napitek": {
+        "SI": "vro\u010di napitek",
+        "EN": "hot beverage",
+        "DE": "Hei\u00dfer Drink"
+    },
+    "Podajte svoje mnenje": {
+        "SI": "Podajte svoje mnenje",
+        "EN": "Give your opinion",
+        "DE": "Geben Sie Ihre Meinung ab"
+    },
+    "Navodila za uporabo": {
+        "SI": "Navodila za uporabo",
+        "EN": "Usage instructions",
+        "DE": "Gebrauchsanweisung"
+    },
+    "VSA PONUDBA": {
+        "SI": "VSA PONUDBA",
+        "EN": "STANDARD OFFER",
+        "DE": "STANDARDANGEBOT"
+    },
+    "KAVA": {
+        "SI": "KAVA",
+        "EN": "COFFEE",
+        "DE": "KAFFEE"
+    },
+    "\u010cAJ": {
+        "SI": "\u010cAJ",
+        "EN": "TEE",
+        "DE": "TEE"
+    },
+    "OSTALO": {
+        "SI": "OSTALO",
+        "EN": "OTHERS",
+        "DE": "ANDERE"
+    },
+    "PRILJUBLJENO": {
+        "SI": "PRILJUBLJENO",
+        "EN": "FAVORITE",
+        "DE": "LIEBLING"
+    },
+    "AKCIJSKE PONUDBE": {
+        "SI": "AKCIJSKE PONUDBE",
+        "EN": "ACTION OFFERS",
+        "DE": "AKTION ANGEBOTE"
+    },
+    "Velikost": {
+        "SI": "Velikost",
+        "EN": "Size",
+        "DE": "Gr\u00f6\u00dfe"
+    },
+    "Popust": {
+        "SI": "Popust",
+        "EN": "Discount",
+        "DE": "Rabatt"
+    },
+    "Za\u010denjam pripravo...": {
+        "SI": "Za\u010denjam pripravo...",
+        "EN": "Starting preparation...",
+        "DE": "Vorbereitung beginnen..."
+    },
+    "Mletje kave...": {
+        "SI": "Mletje kave...",
+        "EN": "Grinding coffee...",
+        "DE": "Kaffee mahlen..."
+    },
+    "Priprava kave...": {
+        "SI": "Priprava kave...",
+        "EN": "Coffee preparation...",
+        "DE": "Kaffeezubereitung..."
+    },
+    "Dodajam mleko...": {
+        "SI": "Dodajam mleko...",
+        "EN": "Adding milk...",
+        "DE": "Milch hinzuf\u00fcgen..."
+    },
+    "Segrevanje vode...": {
+        "SI": "Segrevanje vode...",
+        "EN": "Heating water...",
+        "DE": "Wasser erhitzen..."
+    },
+    "Dodajam \u010daj...": {
+        "SI": "Dodajam \u010daj...",
+        "EN": "Adding tee...",
+        "DE": "Tee hinzuf\u00fcgen..."
+    },
+    "Dodajam \u010dokolado...": {
+        "SI": "Dodajam \u010dokolado...",
+        "EN": "Adding chocolate...",
+        "DE": "Schokolade hinzuf\u00fcgen..."
+    },
+    "Dodajam sladkor...": {
+        "SI": "Dodajam sladkor...",
+        "EN": "Adding sugar...",
+        "DE": "Zucker hinzuf\u00fcgen..."
+    },
+    "Dodajam dodatke...": {
+        "SI": "Dodajam dodatke...",
+        "EN": "Adding extras...",
+        "DE": "Extras hinzuf\u00fcgen..."
+    },
+    "Me\u0161am...": {
+        "SI": "Me\u0161am...",
+        "EN": "Mixing...",
+        "DE": "Mischen..."
+    },
+    "Odprite pokrov in vzemite svoj napitek.": {
+        "SI": "Odprite pokrov in vzemite svoj napitek.",
+        "EN": "Open the lid and take your drink.",
+        "DE": "\u00d6ffnen Sie den Deckel und nehmen Sie Ihr Getr\u00e4nk."
+    },
+    "Pripravljam": {
+        "SI": "Pripravljam",
+        "EN": "Preparing",
+        "DE": "Vorbereitung"
+    },
+    "Odpri pokrov": {
+        "SI": "Odpri pokrov",
+        "EN": "Open the lid",
+        "DE": "Offnen Sie den Deckel"
+    }
+}
