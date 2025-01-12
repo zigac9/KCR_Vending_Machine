@@ -17,6 +17,7 @@ export const caji: Beverage[] = [
         urlName: "zeleni",
         img: "/caji/green.png",
         amount: 1,
+        discount: 20,
         available_brands: ["Teekanne", "Loyd"],
         price: 0.85
     },
